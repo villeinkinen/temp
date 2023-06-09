@@ -46,7 +46,7 @@ Notes:
 - Most reforestation came from the category "Other non-forest natural formation" (13).
 - Most deforestation came from pasture + agriculture. "Other non-forest" still a significant contributor.
 
-Previous land use of other non-forest:
+Reforestation pixels, land use in 1985:
 
 ![](index_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
 
