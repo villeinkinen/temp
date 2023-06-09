@@ -15,31 +15,31 @@ knitr:
 
 Forest vs non-forest in 1994. Property bounadries in white.
 
-![](C:/Users/ville/Dropbox/Projects/BIOADD/output/html/index_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
 Land cover change 1995-2015 outside properties and within properties
 
-![](C:/Users/ville/Dropbox/Projects/BIOADD/output/html/index_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
 
 
 Deforestation and reforestation over 1995-2015. Defined as 5 consequtive years of forest/non-forest in 1990-1994 and 2016-2020
 
-![](C:/Users/ville/Dropbox/Projects/BIOADD/output/html/index_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
 
 Deforestation and reforestation over 1995-2015. No requirement of stable land cover before and after.
 
-![](C:/Users/ville/Dropbox/Projects/BIOADD/output/html/index_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
 
 While the patterns are preserved, the differences are not marginal:
 
-![](C:/Users/ville/Dropbox/Projects/BIOADD/output/html/index_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
 
 Baseline and endline land cover categories for re- and deforestation:
 
-![](C:/Users/ville/Dropbox/Projects/BIOADD/output/html/index_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
 
 
-![](C:/Users/ville/Dropbox/Projects/BIOADD/output/html/index_files/figure-html/unnamed-chunk-7-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-7-1.png)<!-- -->
 
 Notes:
 
@@ -48,7 +48,7 @@ Notes:
 
 Previous land use of other non-forest:
 
-![](C:/Users/ville/Dropbox/Projects/BIOADD/output/html/index_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
 
 Questions:
 
